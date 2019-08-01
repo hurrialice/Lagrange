@@ -4,6 +4,7 @@ title: "What defines you as a researcher?"
 author: "Qing Zhang"
 categories: journal
 tags: [reflection,anecdotes]
+comments: true
 image: anise_candy.jpg
 ---
 
