@@ -4,7 +4,7 @@ title: "Transition to full-time Broadie"
 author: "Qing Zhang"
 categories: journal
 tags: [work]
-image: goodbye.jpg
+image: goodbye.jpeg
 ---
 
 I graduated this May from HSPH with MS in Computational Biology and started new journey as full-time ACB at Getz lab where I [did my thesis](https://github.com/getzlab/mutect-benchmark). I thought things could be smoothier since I am not technically a "new grad", however I did learn some lessons that I feel confortable sharing.
