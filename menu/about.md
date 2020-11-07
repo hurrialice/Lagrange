@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 ---
 
-Hi there, I'm Qing Zhang and mostly work on computational biology. I am currently based on Boston and working at Broad Institute Getz lab on cancer genomics.
+Hi there, I'm Qing Zhang and mostly work on computational biology. I am currently at Boston and working at Broad Institute Getz lab on cancer genomics.
 
 
 ### Connect with me!
